@@ -2,8 +2,6 @@
 
 This is a demo git repo.
 
-##IPSUM BELOW
-
-ABCDEFGH
+##Demo File Added in Git
 
 index.html
